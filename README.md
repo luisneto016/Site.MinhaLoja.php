@@ -1,0 +1,1 @@
+# Site.MinhaLoja.php
