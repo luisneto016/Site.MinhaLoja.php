@@ -24,11 +24,7 @@ Aplicação web desenvolvida como projeto prático a partir de um tutorial passo
 
 ## 🛠️ Tecnologias Utilizadas
 
-> *(Ajuste a lista abaixo conforme as tecnologias exatas que você usou no projeto)*
-
-- **Front-end:** HTML5, CSS3, JavaScript
-- **Framework/Biblioteca:** React / Bootstrap / Tailwind CSS *(remova o que não aplicou)*
-- **Back-end / Banco de Dados:** *(Preencha se houver API ou Node/Python/PHP/etc.)*
+- **Front-end:** HTML5, CSS3
 
 ---
 
