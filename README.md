@@ -1,9 +1,39 @@
 # Site.MinhaLoja.php
 
-Site criado com php e estilizado com CSS. É simples, mas tem muitas partes. Criado junto a um site do professor. Totalmente funcional.
+# 🛒 Minha Loja - Sistema de E-commerce e Gestão
+
+Aplicação web desenvolvida como projeto prático a partir de um tutorial passo a passo ministrado em aula. O sistema simula um e-commerce interativo com painel de controle para visualização de métricas e gerenciamento de inventário.
+
+---
+
+## 📌 Funcionalidades
+
+- **Vitrine Virtual:** Exibição de produtos com nome, descrição, imagem e preço.
+- **Campo de Busca:** Filtro rápido para pesquisa de itens na vitrine.
+- **Métricas Rápidas:** Dashboard simplificado com totalizadores de:
+  - 👥 Clientes cadastrados
+  - 📦 Produtos disponíveis
+  - 📜 Vendas realizadas
+- **Navegação Modular:**
+  - Vitrine
+  - Clientes
+  - Produtos
+  - Vendas
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+> *(Ajuste a lista abaixo conforme as tecnologias exatas que você usou no projeto)*
+
+- **Front-end:** HTML5, CSS3, JavaScript
+- **Framework/Biblioteca:** React / Bootstrap / Tailwind CSS *(remova o que não aplicou)*
+- **Back-end / Banco de Dados:** *(Preencha se houver API ou Node/Python/PHP/etc.)*
+
+---
 
 ![imagem](https://github.com/luisneto016/Site.MinhaLoja.php/blob/main/site.png)
 Imagem da página inicial.
 
-Link do Render funcional:
+## Link do Render funcional:
 https://site-minhaloja-php.onrender.com/
